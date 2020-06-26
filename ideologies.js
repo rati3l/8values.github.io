@@ -3,16 +3,16 @@ ideologies = [
         "name": "Communism",
         "stats": {
             "econ": 100,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "dipl": 1,
+            "govt": 1,
+            "scty": 1
         }
     }, {
         "name": "Fascism",
         "stats": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
+            "econ": 1,
+            "dipl": 1,
+            "govt": 1,
             "scty": 100
         }
     }]

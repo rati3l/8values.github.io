@@ -2,36 +2,36 @@ questions = [
     {
         "question": "Oppression by corporations is more of a concern than oppression by governments.",
         "effect": {
-            "econ": 100,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "econ": 1,
+            "dipl": 1,
+            "govt": 100,
+            "scty": 1
         }
     },
     {
         "question": "It is necessary for the government to intervene in the economy to protect consumers.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "econ": 1,
+            "dipl": 1,
+            "govt": 100,
+            "scty": 1
         }
     },
     {
         "question": "The freer the markets, the freer the people.",
         "effect": {
-            "econ": 100,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "econ": 1,
+            "dipl": 1,
+            "govt": 1,
+            "scty": 100
         }
     },
     {
-        "question": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+        "question": "It is better to ensure welfare for all citizens than to maintain a balanced budget.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
+            "econ": 1,
+            "dipl": 1,
+            "govt": 1,
             "scty": 100
         }
     }];
