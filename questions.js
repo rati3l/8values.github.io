@@ -2,7 +2,7 @@ questions = [
     {
         "question": "Oppression by corporations is more of a concern than oppression by governments.",
         "effect": {
-            "econ": 1,
+            "econ": -50,
             "dipl": 1,
             "govt": 100,
             "scty": 1
@@ -11,7 +11,7 @@ questions = [
     {
         "question": "It is necessary for the government to intervene in the economy to protect consumers.",
         "effect": {
-            "econ": 1,
+            "econ": -50,
             "dipl": 1,
             "govt": 100,
             "scty": 1
@@ -23,7 +23,7 @@ questions = [
             "econ": 1,
             "dipl": 1,
             "govt": 1,
-            "scty": 100
+            "scty": -100
         }
     },
     {
@@ -32,7 +32,7 @@ questions = [
             "econ": 1,
             "dipl": 1,
             "govt": 1,
-            "scty": 100
+            "scty": -100
         }
     }];
 //     {
